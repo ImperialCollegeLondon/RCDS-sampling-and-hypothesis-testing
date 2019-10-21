@@ -9,10 +9,12 @@ This course provides an introduction to the statistical theory of sampling, para
 - Parameter inference
 - Hypothesis testing
 
-<!--
+
 ## Instructions
 Download this repository to your computer as a ZIP file and unpack it.
-Open `r_programming.nb.html` in your web browser to get started.
+Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work with the .ipynb examples.
+<!--
+Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master)
 -->
 
 ## Evaluation
