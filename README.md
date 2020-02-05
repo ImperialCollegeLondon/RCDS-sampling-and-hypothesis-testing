@@ -17,9 +17,9 @@ Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work
 
 Alternatively, you can run the notebooks online using Binder: 
 
-Python version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master?urlpath=python_version/)
+Python version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master?urlpath=jupyter/python_version/)
 
-R version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master?urlpath=R_version/)
+R version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master?urlpath=jupyter/R_version/)
 
 
 ## Evaluation
