@@ -6,7 +6,7 @@ This course provides an introduction to the statistical theory of sampling, para
 - Discrete and continuous probability distributions
 - Sampling distributions
 - Sampling methods
-- Parameter inference
+- Confidence intervals
 - Hypothesis testing
 
 
