@@ -10,7 +10,15 @@ This course provides an introduction to the statistical theory of sampling, para
 - Hypothesis testing
 
 
-## Instructions
+## Setup
+
+We will be working with jupyter notebooks. The easiest way to access jupyter is via the Anaconda platform.
+Please install Anaconda from https://www.anaconda.com in advance of the workshop.
+
+NB no knowledge of programming is required for this workshop.
+
+
+## Getting Started
 Download this repository to your computer as a ZIP file and unpack it.
 
 Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work with the .ipynb examples.
